@@ -6,4 +6,4 @@
 
 ## Notebooks
 
-./notebooks/CO2_Molecule.ipynb
+[CO2 Molecule](./notebooks/CO2_Molecule.ipynb)
