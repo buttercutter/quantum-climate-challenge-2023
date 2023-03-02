@@ -1,5 +1,5 @@
 %chk=step_000_DFT.chk
-# opt ucam-b3lyp/6-311++g(d,p) geom=connectivity
+# opt umn15l/6-311++g(d,p) geom=connectivity
 
 Fe2CO2_OPT
 
