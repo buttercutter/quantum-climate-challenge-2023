@@ -23,3 +23,5 @@ notebooks/step_002.xyz
 notebooks/step_001.xyz
 notebooks/step_000.xyz
 notebooks/frozen_cores_test.ipynb
+notebooks/classical_gs.ipynb
+notebooks/dont_test_as.ipynb
